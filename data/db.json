@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "id": "abc",
+      "title": "Slack",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "def",
+      "title": "Jira",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "ghi",
+      "title": "Gitlab",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "jkl",
+      "title": "Zendesk",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "mno",
+      "title": "Freshworks",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "pqr",
+      "title": "Quickbook",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "stu",
+      "title": "ProofHub",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "vwx",
+      "title": "Clickup",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "yza",
+      "title": "Trello",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "bcd",
+      "title": "Asana",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "efg",
+      "title": "nTask",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    },
+    {
+      "id": "hij",
+      "title": "Freshsales",
+      "logo": "https://talent2win.com/wp-content/uploads/2021/09/LogoDefault.png"
+    }
+  ],
+  "selectedProducts": [
+    {
+      "id": 1,
+      "productIds": [
+        "abc",
+        "bcd"
+      ]
+    },
+    {
+      "productIds": [
+        "bcd",
+        "hij"
+      ],
+      "id": 2
+    },
+    {
+      "productIds": [
+        "bcd",
+        "vwx"
+      ],
+      "id": 3
+    },
+    {
+      "productIds": [
+        "mno",
+        "ghi"
+      ],
+      "id": 4
+    },
+    {
+      "productIds": [
+        "vwx",
+        "hij",
+        "mno",
+        "ghi"
+      ],
+      "id": 5
+    },
+    {
+      "productIds": [
+        "bcd",
+        "mno",
+        "def"
+      ],
+      "id": 6
+    },
+    {
+      "productIds": [
+        "bcd",
+        "vwx",
+        "ghi",
+        "mno"
+      ],
+      "id": 7
+    },
+    {
+      "productIds": [
+        "bcd",
+        "vwx",
+        "hij",
+        "pqr"
+      ],
+      "id": 8
+    },
+    {
+      "productIds": [
+        "bcd"
+      ],
+      "id": 9
+    }
+  ]
+}
